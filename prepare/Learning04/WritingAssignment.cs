@@ -15,3 +15,4 @@ public class WritingAssignment : Assignment
         return $"{_title} by {studentName}";
     }
 }
+
